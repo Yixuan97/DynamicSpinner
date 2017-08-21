@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Dynamic Spinner</string>
+    <string name="update">Update</string>
+
+    <string-array name="number_types">
+        <item>even</item>
+        <item>odd</item>
+    </string-array>
+
+    <string-array name= "even_Numbers">
+    <item>2</item>
+    <item>4</item>
+    <item>6</item>
+    </string-array>
+
+    <string-array name="odd_Numbers">
+    <item>1</item>
+    <item>3</item>
+    <item>5</item>
+    </string-array>
+</resources>
